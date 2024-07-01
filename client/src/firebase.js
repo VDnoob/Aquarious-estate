@@ -13,7 +13,7 @@ const firebaseConfig = {
   storageBucket: "aquarious-estate.appspot.com",
   messagingSenderId: "267257289998",
   appId: "1:267257289998:web:0e64265c208c7242920b5f",
-  measurementId: "G-65NW8XD9ET"
+  measurementId: "G-65NW8XD9ET",
 };
 
 // Initialize Firebase
